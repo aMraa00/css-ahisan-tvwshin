@@ -1,2 +1,1 @@
-import "../styles/styles.css";
-alert("Test");
+alert("Test hiij baina0");
