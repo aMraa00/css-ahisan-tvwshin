@@ -1,0 +1,24 @@
+{
+  "name": "css-ahisan-tvwshin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aMraa00/css-ahisan-tvwshin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aMraa00/css-ahisan-tvwshin.git"
+  },
+  "homepage": "https://github.com/aMraa00/css-ahisan-tvwshin.git",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "normalize.css": "^8.0.1"
+  }
+}
